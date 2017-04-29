@@ -1,0 +1,15 @@
+^.gitkeep
+/log/*.log
+*.jpg
+*.png
+*.lnk
+*.log
+*.project
+/node_modules
+*.webp
+/.vscode
+/v1.0/ser/shouTemp.txt
+/log/log.log.1
+/log/log.log.2
+/log/log.log.3
+wxappConfig.js

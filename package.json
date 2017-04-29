@@ -1,0 +1,32 @@
+{
+  "name": "shou-api",
+  "version": "1.0.0",
+  "description": "个人代理的urp及部分官网信息接口",
+  "main": "app.js",
+  "scripts": {
+    "api": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shouDeveloper/shou-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shouDeveloper/shou-api/issues"
+  },
+  "dependencies": {
+        "cheerio": "^0.22.0",
+        "formidable": "^1.0.17",
+        "iconv-lite": "^0.4.15",
+        "koa": "^2.2.0",
+        "koa-router": "^7.0.1",
+        "koa2-formidable": "^1.0.0",
+        "log4js": "^0.6.38",
+        "mongoose": "^4.6.4",
+        "superagent": "^3.4.3",
+        "superagent-charset": "^1.1.1"
+    },
+  "homepage": "https://github.com/shouDeveloper/shou-api#readme"
+}
