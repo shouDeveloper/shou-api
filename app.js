@@ -39,6 +39,6 @@ router.post('/examDate',require("./router/urpData/examDate"),err);
 app.use(router.routes());
 app.use(router.allowedMethods());
 
-app.listen(3189, function() {
-    console.log("listen on 3189");
+app.listen(7777, function() {
+    console.log("listen on 7777");
 });
